@@ -1,10 +1,10 @@
- <!DOCTYPE html>                                                                                                                  
-  <html lang="ko">    
-  <head>                                                                                                                           
-    <meta charset="UTF-8" />                   
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!DOCTYPE html>                              
+  <html lang="ko">                                                                                                                 
+  <head>                                       
+    <meta charset="UTF-8" />                                                                                                       
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />                                                       
     <title>hwayoil.com — 도메인 판매</title>                                                                                       
-    <style>                                    
+    <style>          
       @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700;900&display=swap');                          
       *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }                                                    
       body { font-family: 'Noto Sans KR', sans-serif; background: #0a0a0a; color: #fff; min-height: 100vh; display: flex;          
